@@ -1,7 +1,7 @@
 BLOMS 2023 (Beamline Optics Modeling School)
 ============================================
 
-This repository contains the OASYS material for the BLOMS 2013 School https://sites.google.com/lbl.gov/bloms2023/home
+This repository contains the OASYS material for the BLOMS 2023 School https://sites.google.com/lbl.gov/bloms2023/home
 
 
 Dates
