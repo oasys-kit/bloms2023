@@ -3,6 +3,7 @@ BLOMS 2023 (Beamline Optics Modeling School)
 
 This repository contains the OASYS material for the BLOMS 2023 School https://sites.google.com/lbl.gov/bloms2023/home
 
+Meeting Report in SRN: https://doi.org/10.1080/08940886.2023.2274746  
 
 Dates
 =====
